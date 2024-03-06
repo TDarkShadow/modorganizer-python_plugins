@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
-from PyQt5.QtCore import QCoreApplication
-from PyQt5.QtWidgets import QMainWindow, QFrame
+from PyQt6.QtCore import QCoreApplication
+from PyQt6.QtWidgets import QMainWindow, QFrame
 
 import mobase
 
